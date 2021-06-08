@@ -1,3 +1,7 @@
+Link tutorial: https://www.luiztools.com.br/post/tutorial-de-react-js-com-node-js/
+
+Para roteamento de páginas: npm install react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
